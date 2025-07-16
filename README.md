@@ -11,7 +11,7 @@ Each project is structured by domain and subdomain for clarity, learning, and fu
 ---
 
 ## 🗂️ **Repository Structure**
-
+<pre>
 MACHINE_LEARNINGS_PROJECTS/
 │
 ├── SUPERVISED_LEARNING/
@@ -48,3 +48,5 @@ MACHINE_LEARNINGS_PROJECTS/
 │ └── README.md
 │
 └── README.md
+<pre>
+---
