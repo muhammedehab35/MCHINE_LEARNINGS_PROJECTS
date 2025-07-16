@@ -48,7 +48,7 @@ MACHINE_LEARNINGS_PROJECTS/
 │ └── README.md
 │
 └── README.md
-<pre>
+</pre>
 ---
 ## 🎯 **Description by Domain**
 
